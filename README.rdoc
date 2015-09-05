@@ -1,15 +1,16 @@
 == README
 
 Community Base is a basic app that provides users the ability ask questions
-and answers. App is written in Rails and React.js.
+and answers. App is written in Ruby on Rails and React.js.
 
 Ruby version: 2.2.2+
+Rails ver: 4.2.4
 
 Basic start-up commands:
-<tt>rake db:create</tt>
-<tt>rake db:migrate</tt>
-<tt>rake db:seed</tt>
-<tt>rails s</tt>
+<tt>rake db:create
+rake db:migrate
+rake db:seed
+rails s</tt>
 
 === SCREENSHOTS
 
