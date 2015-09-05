@@ -46,6 +46,7 @@
     , 'JSON'
 
   render: ->
+    React.DOM.hr null,
     React.DOM.div
       className: 'new-question-form'
       React.DOM.h3
